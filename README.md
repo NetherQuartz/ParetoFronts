@@ -16,6 +16,6 @@ The algorithm to compute the ranks builds two results at once: first it partitio
 ![Screenshot](screenshot.gif)
 
 ## Bibliography
-1. Эрих Гамма, Ричард Хелм, Ральф Джонсон, Джон Влиссидес – Приёмы объектно-ориентированного проектирования. Паттерны проектирования, 1994
+1. Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides – Design Patterns: Elements of Reusable Object-Oriented Software, 1994
 2. Charles Petzold – Programming Microsoft Windows with C#, 2002
 3. Sean Luke – Essentials of Metaheuristics, 2015
